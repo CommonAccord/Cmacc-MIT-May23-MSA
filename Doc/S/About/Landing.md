@@ -2,7 +2,7 @@
 Model.Root=<center>{Logos}<br><br><b>{Site.Name}</b></center></p><br>{Content.Sec}
 
 
-Logos=<center><a href="http://connection.mit.edu/"><img src="File/mit-connection-science.jpg" style="width:30%" / ></a> &emsp; &emsp; &emsp; <img src="File/cmacc-trans.png" style="width:35%" />
+Logos=<center><a href="http://connection.mit.edu/"><img src="File/mit-connection-science.jpg" style="width:30%" / ></a> &emsp; &emsp; &emsp; <img src="File/cmacc-trans.png" style="width:35%" /></center>
 
 
 Site.Name=mit.commonaccord.org
@@ -19,7 +19,9 @@ Content.4.sec=A major goal of <a href="http://commonaccord.org/index.php?action=
 
 Content.5.sec=Repo at <a href="http://github.com/commonaccord/Cmacc-MIT-May23-MSA">github.com/commonaccord/Cmacc-MIT-May23-MSA</a>
 
-Content.=[Z/ol-none/s5]
+Content.6.sec=This also gives us an opportunity to get some experience with collaborating on a particular document project using its own GitHub repo - with the usual GitHub collab tools of notices, pull-requests, etc.  These repos need to be done on a subject or document level to keep the traffic meaningful for collaborators.
+
+Content.=[Z/ol-II/s6]
 
 
 
