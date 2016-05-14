@@ -20,11 +20,9 @@ sec={0.Sec} {xlist} {00.Sec}
 
 Note=A kludge to make existing docs work even though I've changed from 90.Sec to 00.Sec.
 
-00.Sec={90.sec}
+00.Sec={00.sec}
 
-90.Sec={90.sec}
-
-90.sec=</i>
+00.sec=</i>
 
 xlist={Olist}
 
