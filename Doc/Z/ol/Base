@@ -12,11 +12,15 @@ Head.sec={Doc.Title}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec={0.Sec} {xlist} {90.Sec}
+sec={0.Sec} {xlist} {00.Sec}
 
 0.Sec={0.sec}
 
 0.sec=</i>
+
+Note=A kludge to make existing docs work even though I've changed from 90.Sec to 00.Sec.
+
+00.Sec={90.sec}
 
 90.Sec={90.sec}
 
